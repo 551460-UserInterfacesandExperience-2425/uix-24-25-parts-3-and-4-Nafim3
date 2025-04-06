@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y6V4tBswDcXQ8D3Ci0/3d0caRo+xaaZrPW+Mp0gBwXI=",
+  "Hash": "fepW8A03BB8Fv1bE9qr2riZAjaYzpwhh4s2mBx5WZSU=",
   "Source": "UIXP-3",
   "BasePath": "_content/UIXP-3",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "UIXP-3\\wwwroot",
       "Source": "UIXP-3",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
       "SourceId": "UIXP-3",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "UIXP-3#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css"
+      "OriginalItemSpec": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
       "SourceId": "UIXP-3",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "UIXP-3#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css"
+      "OriginalItemSpec": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "CSS/UI.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7ambnek3gw",
-      "Integrity": "j7SCvzouMaJBa+ZbHq1TqjOFscU7juo2Z2pd7zmRun8=",
+      "Fingerprint": "i1s09z91nb",
+      "Integrity": "9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\UI.min.css"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "CSS/UI-icons#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2i3ze27i9j",
-      "Integrity": "hv0LcrCj/JSkmolleMgyNNiQk7W6TAytXUOz4c99TPg=",
+      "Fingerprint": "1nv8kpn4fm",
+      "Integrity": "06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\UI-icons.css"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "CSS/UI-pack#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\UI-pack.css"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "Fonts/bootstrap-icons#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "Fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "Images/BGI#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BGI.jpg"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\countdown.js",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\countdown.js",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "JS/countdown#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -199,17 +199,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1qrlcyb1zj",
-      "Integrity": "ZzwQJshQ/yGLV6QodI8jso6gJQtfURi62zepetHjXwY=",
+      "Fingerprint": "66zt41b59l",
+      "Integrity": "spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\countdown.js"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\init.js",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\init.js",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "JS/init#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\JS\\init.js"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "JS/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -241,17 +241,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sc7v1wgpvn",
-      "Integrity": "BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=",
+      "Fingerprint": "yae487z44e",
+      "Integrity": "lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\jquery.min.js"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "JS/UIX.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -262,17 +262,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "72ydvhcz2w",
-      "Integrity": "r9CiQ2/QWahASPLu3dPjKJyuGp0aBUM5IlBuWJ++8NU=",
+      "Fingerprint": "43h7ql542q",
+      "Integrity": "wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\UIX.bundle.min.js"
     },
     {
-      "Identity": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Videos\\video.mp4",
+      "Identity": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Videos\\video.mp4",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "RelativePath": "Videos/video#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
@@ -292,8 +292,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "CSS/UI.min.7ambnek3gw.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
+      "Route": "CSS/UI.min.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -302,7 +302,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "220655"
+          "Value": "220659"
         },
         {
           "Name": "Content-Type",
@@ -310,11 +310,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j7SCvzouMaJBa+ZbHq1TqjOFscU7juo2Z2pd7zmRun8=\""
+          "Value": "\"9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 16:09:06 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/UI.min.i1s09z91nb.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -324,7 +361,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7ambnek3gw"
+          "Value": "i1s09z91nb"
         },
         {
           "Name": "label",
@@ -332,13 +369,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j7SCvzouMaJBa+ZbHq1TqjOFscU7juo2Z2pd7zmRun8="
+          "Value": "sha256-9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw="
         }
       ]
     },
     {
-      "Route": "CSS/UI.min.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
+      "Route": "CSS/UI-icons.1nv8kpn4fm.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -347,7 +384,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "220655"
+          "Value": "90414"
         },
         {
           "Name": "Content-Type",
@@ -355,48 +392,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j7SCvzouMaJBa+ZbHq1TqjOFscU7juo2Z2pd7zmRun8=\""
+          "Value": "\"06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 16:09:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7SCvzouMaJBa+ZbHq1TqjOFscU7juo2Z2pd7zmRun8="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/UI-icons.2i3ze27i9j.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "88538"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hv0LcrCj/JSkmolleMgyNNiQk7W6TAytXUOz4c99TPg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 16:09:06 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -406,7 +406,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2i3ze27i9j"
+          "Value": "1nv8kpn4fm"
         },
         {
           "Name": "label",
@@ -414,13 +414,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hv0LcrCj/JSkmolleMgyNNiQk7W6TAytXUOz4c99TPg="
+          "Value": "sha256-06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk="
         }
       ]
     },
     {
       "Route": "CSS/UI-icons.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -429,7 +429,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "88538"
+          "Value": "90414"
         },
         {
           "Name": "Content-Type",
@@ -437,11 +437,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hv0LcrCj/JSkmolleMgyNNiQk7W6TAytXUOz4c99TPg=\""
+          "Value": "\"06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 16:09:06 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -451,13 +451,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hv0LcrCj/JSkmolleMgyNNiQk7W6TAytXUOz4c99TPg="
+          "Value": "sha256-06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk="
         }
       ]
     },
     {
       "Route": "CSS/UI-pack.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -478,7 +478,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 17:41:22 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -494,7 +494,7 @@
     },
     {
       "Route": "CSS/UI-pack.et7y02fj2b.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -515,7 +515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 17:41:22 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -539,7 +539,7 @@
     },
     {
       "Route": "Fonts/bootstrap-icons.a0fdf22wtr.woff2",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -560,7 +560,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -584,7 +584,7 @@
     },
     {
       "Route": "Fonts/bootstrap-icons.t8boe7hjru.woff",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -605,7 +605,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -629,7 +629,7 @@
     },
     {
       "Route": "Fonts/bootstrap-icons.woff",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -650,7 +650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -666,7 +666,7 @@
     },
     {
       "Route": "Fonts/bootstrap-icons.woff2",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -687,7 +687,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -703,7 +703,7 @@
     },
     {
       "Route": "Images/BGI.8nupwmcn73.jpg",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -724,7 +724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 15:49:29 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -748,7 +748,7 @@
     },
     {
       "Route": "Images/BGI.jpg",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -769,7 +769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 15:49:29 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -784,8 +784,8 @@
       ]
     },
     {
-      "Route": "JS/countdown.1qrlcyb1zj.js",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\countdown.js",
+      "Route": "JS/countdown.66zt41b59l.js",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\countdown.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -794,7 +794,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2970"
+          "Value": "3042"
         },
         {
           "Name": "Content-Type",
@@ -802,11 +802,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZzwQJshQ/yGLV6QodI8jso6gJQtfURi62zepetHjXwY=\""
+          "Value": "\"spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -816,7 +816,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1qrlcyb1zj"
+          "Value": "66zt41b59l"
         },
         {
           "Name": "label",
@@ -824,13 +824,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZzwQJshQ/yGLV6QodI8jso6gJQtfURi62zepetHjXwY="
+          "Value": "sha256-spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E="
         }
       ]
     },
     {
       "Route": "JS/countdown.js",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\countdown.js",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\countdown.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -839,7 +839,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2970"
+          "Value": "3042"
         },
         {
           "Name": "Content-Type",
@@ -847,11 +847,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZzwQJshQ/yGLV6QodI8jso6gJQtfURi62zepetHjXwY=\""
+          "Value": "\"spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -861,13 +861,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZzwQJshQ/yGLV6QodI8jso6gJQtfURi62zepetHjXwY="
+          "Value": "sha256-spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E="
         }
       ]
     },
     {
       "Route": "JS/init.js",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\init.js",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\init.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -888,7 +888,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 00:29:58 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -904,7 +904,7 @@
     },
     {
       "Route": "JS/init.x6l4dc0cp6.js",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\init.js",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\init.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -925,7 +925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 00:29:58 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -949,7 +949,7 @@
     },
     {
       "Route": "JS/jquery.min.js",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -958,7 +958,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "85658"
+          "Value": "85661"
         },
         {
           "Name": "Content-Type",
@@ -966,11 +966,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\""
+          "Value": "\"lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -980,13 +980,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="
+          "Value": "sha256-lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc="
         }
       ]
     },
     {
-      "Route": "JS/jquery.min.sc7v1wgpvn.js",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
+      "Route": "JS/jquery.min.yae487z44e.js",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -995,7 +995,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "85658"
+          "Value": "85661"
         },
         {
           "Name": "Content-Type",
@@ -1003,11 +1003,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\""
+          "Value": "\"lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1017,7 +1017,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sc7v1wgpvn"
+          "Value": "yae487z44e"
         },
         {
           "Name": "label",
@@ -1025,13 +1025,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="
+          "Value": "sha256-lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc="
         }
       ]
     },
     {
-      "Route": "JS/UIX.bundle.min.72ydvhcz2w.js",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
+      "Route": "JS/UIX.bundle.min.43h7ql542q.js",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1040,7 +1040,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80390"
+          "Value": "80395"
         },
         {
           "Name": "Content-Type",
@@ -1048,11 +1048,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r9CiQ2/QWahASPLu3dPjKJyuGp0aBUM5IlBuWJ++8NU=\""
+          "Value": "\"wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 16:09:06 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1062,7 +1062,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "72ydvhcz2w"
+          "Value": "43h7ql542q"
         },
         {
           "Name": "label",
@@ -1070,13 +1070,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r9CiQ2/QWahASPLu3dPjKJyuGp0aBUM5IlBuWJ++8NU="
+          "Value": "sha256-wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4="
         }
       ]
     },
     {
       "Route": "JS/UIX.bundle.min.js",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1085,7 +1085,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80390"
+          "Value": "80395"
         },
         {
           "Name": "Content-Type",
@@ -1093,11 +1093,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r9CiQ2/QWahASPLu3dPjKJyuGp0aBUM5IlBuWJ++8NU=\""
+          "Value": "\"wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 16:09:06 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1107,13 +1107,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r9CiQ2/QWahASPLu3dPjKJyuGp0aBUM5IlBuWJ++8NU="
+          "Value": "sha256-wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4="
         }
       ]
     },
     {
       "Route": "UIXP-3.b5kr1pcvc8.bundle.scp.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1134,7 +1134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 09:09:03 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1158,7 +1158,7 @@
     },
     {
       "Route": "UIXP-3.b5kr1pcvc8.styles.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1179,7 +1179,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 09:09:03 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1203,7 +1203,7 @@
     },
     {
       "Route": "UIXP-3.bundle.scp.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1224,7 +1224,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 09:09:03 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1240,7 +1240,7 @@
     },
     {
       "Route": "UIXP-3.styles.css",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1261,7 +1261,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 09:09:03 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1277,7 +1277,7 @@
     },
     {
       "Route": "Videos/video.mp4",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Videos\\video.mp4",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Videos\\video.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1298,7 +1298,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1314,7 +1314,7 @@
     },
     {
       "Route": "Videos/video.t18vrh3ixh.mp4",
-      "AssetFile": "E:\\C#\\UIXC\\UIXP-3\\wwwroot\\Videos\\video.mp4",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Videos\\video.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1335,7 +1335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:53:33 GMT"
+          "Value": "Sun, 06 Apr 2025 20:43:27 GMT"
         },
         {
           "Name": "Cache-Control",

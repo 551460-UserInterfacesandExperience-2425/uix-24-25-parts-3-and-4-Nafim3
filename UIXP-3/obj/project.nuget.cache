@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QGWySPQEYIs=",
+  "dgSpecHash": "R0rNDqnUvL0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nafim\\uix-24-25-parts-3-and-4-Nafim3\\UIXP-3\\UIXP-3.csproj",
+  "projectFilePath": "E:\\C#\\UIX test\\UIXP-3\\UIXP-3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nafim\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\nafim\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
