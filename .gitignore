@@ -1,0 +1,40 @@
+# Build folders
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS generated folders
+.vs/
+
+# Debug & logs
+*.log
+
+# dotenv environment files
+.env
+
+# Publish folders
+wwwroot/dist/
+wwwroot/build/
+
+# JetBrains Rider caches
+.idea/
+
+# Parasoft / test result folders
+.parasoft.dat/
+
+# Node modules (if used)
+node_modules/
