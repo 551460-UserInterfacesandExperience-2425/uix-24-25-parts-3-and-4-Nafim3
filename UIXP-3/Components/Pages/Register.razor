@@ -1,0 +1,130 @@
+﻿@page "/register"
+@inject NavigationManager Navigation
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Account</title>
+    <style>
+        :root {
+            --primary: #4361ee;
+            --secondary: #3a56d4;
+            --light: #f8f9fa;
+            --dark: #212529;
+            --danger: #f72585;
+        }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f5f7ff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: var(--dark);
+        }
+        
+        .register-container {
+            width: 100%;
+            max-width: 420px;
+            padding: 2rem;
+        }
+        
+        .register-card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            padding: 2.5rem;
+        }
+        
+        .register-title {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: var(--primary);
+            text-align: center;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+        
+        input {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 1rem;
+            box-sizing: border-box; /* ADDED THIS TO FIX ALIGNMENT */
+        }
+        
+        .register-btn {
+            width: 100%;
+            padding: 0.75rem;
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            margin-top: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="register-container">
+        <div class="register-card">
+            <h1 class="register-title">Create Account</h1>
+            
+            <div class="form-group">
+                <label>Full Name</label>
+                <input type="text" placeholder="Enter your full name" id="name">
+            </div>
+            
+            <div class="form-group">
+                <label>Email Address</label>
+                <input type="email" placeholder="Enter your email" id="email">
+            </div>
+            
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" placeholder="Create a password" id="password">
+            </div>
+            
+            <button class="register-btn" onclick="validateRegister()">Register</button>
+           
+        </div>
+    </div>
+
+    <script>
+        function validateRegister()
+        {
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+
+            if (!name || !email || !password)
+            {
+                alert('Fill in all fields');
+                return false;
+            }
+
+            window.location.href = '/';
+            return true;
+        }
+    </script>
+
+   
+</body>
+</html>

@@ -1,0 +1,253 @@
+﻿@page "/studentdashboard"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #4361ee;
+            --secondary: #3f37c9;
+            --light: #f8f9fa;
+            --dark: #212529;
+            --success: #4cc9f0;
+            --danger: #f72585;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f5f7fa;
+            color: var(--dark);
+            margin: 0;
+            padding: 0;
+        }
+
+        .dashboard-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .dashboard-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+
+        input, textarea, select {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-family: inherit;
+            font-size: 1rem;
+        }
+
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+            .btn:hover {
+                background-color: var(--secondary);
+                transform: translateY(-2px);
+            }
+
+        .confirmation {
+            padding: 1rem;
+            border-radius: 5px;
+            margin-top: 1rem;
+        }
+
+        .success {
+            background-color: rgba(76, 201, 240, 0.2);
+            color: #0a9396;
+        }
+
+        .info {
+            background-color: rgba(64, 123, 255, 0.2);
+            color: var(--primary);
+        }
+
+        .dashboard-nav {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 2rem;
+        }
+
+        .nav-link {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        /* NEW VALIDATION STYLES */
+        .error-message {
+            color: var(--danger);
+            font-size: 0.875rem;
+            margin-top: 0.25rem;
+            display: none;
+        }
+
+        .input-error {
+            border-color: var(--danger) !important;
+        }
+
+        .text-danger {
+            color: var(--danger);
+        }
+    </style>
+</head>
+<body>
+    <!-- [Rest of the HTML remains exactly as in previous response] -->
+    <div class="dashboard-container">
+        <div class="dashboard-nav">
+            <a href="/" class="nav-link">← Back to Home</a>
+            <h1>Student Dashboard</h1>
+            <div></div>
+        </div>
+
+        <!-- Book a Meeting Card -->
+        <div class="card">
+            <h2>Book a Meeting</h2>
+            <div class="form-group">
+                <label for="meeting-topic">Meeting Topic <span class="text-danger">*</span></label>
+                <input type="text" id="meeting-topic" placeholder="Enter meeting topic" required>
+                <div id="topic-error" class="error-message">Enter a meeting topic</div>
+            </div>
+            <div class="form-group">
+                <label for="meeting-date">Meeting Date <span class="text-danger">*</span></label>
+                <input type="date" id="meeting-date" required>
+                <div id="date-error" class="error-message">Select a meeting date</div>
+            </div>
+            <button class="btn" id="book-meeting-btn">Book Meeting</button>
+            <div id="meeting-confirmation" class="confirmation success" style="display: none;">
+                Meeting booked successfully!
+            </div>
+        </div>
+
+        <!-- Submit Report Card -->
+        <div class="card">
+            <h2>Report to Supervisor</h2>
+            <div class="form-group">
+                <label for="student-report">Your Report <span class="text-danger">*</span></label>
+                <textarea id="student-report" placeholder="Write your report here..." required></textarea>
+                <div id="report-error" class="error-message">Write your report</div>
+            </div>
+            <button class="btn" id="submit-report-btn">Submit Report</button>
+            <div id="report-confirmation" class="confirmation info" style="display: none;">
+                Report submitted to supervisor
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // [JavaScript validation]
+        document.getElementById('book-meeting-btn').addEventListener('click', function() 
+        {
+            const topic = document.getElementById('meeting-topic');
+            const date = document.getElementById('meeting-date');
+            const topicError = document.getElementById('topic-error');
+            const dateError = document.getElementById('date-error');
+            let isValid = true;
+
+            // Reset errors
+            topic.classList.remove('input-error');
+            date.classList.remove('input-error');
+            topicError.style.display = 'none';
+            dateError.style.display = 'none';
+
+            // Validate topic
+            if (!topic.value.trim()) {
+                topic.classList.add('input-error');
+                topicError.style.display = 'block';
+                isValid = false;
+            }
+
+            // Validate date
+            if (!date.value) {
+                date.classList.add('input-error');
+                dateError.style.display = 'block';
+                isValid = false;
+            }
+
+            if (isValid) {
+                const confirmation = document.getElementById('meeting-confirmation');
+                confirmation.style.display = 'block';
+                confirmation.textContent = `Meeting "${topic.value}" booked for ${new Date(date.value).toDateString()}`;
+
+                // Reset form
+                topic.value = '';
+                date.value = '';
+
+                setTimeout(() =>
+                {
+                    confirmation.style.display = 'none';
+                }, 5000);
+            }
+        });
+
+        document.getElementById('submit-report-btn').addEventListener('click', function() {
+            const report = document.getElementById('student-report');
+            const reportError = document.getElementById('report-error');
+            let isValid = true;
+
+            // Reset error
+            report.classList.remove('input-error');
+            reportError.style.display = 'none';
+
+            // Validate report
+            if (!report.value.trim()) {
+                report.classList.add('input-error');
+                reportError.style.display = 'block';
+                isValid = false;
+            }
+
+            if (isValid) {
+                const confirmation = document.getElementById('report-confirmation');
+                confirmation.style.display = 'block';
+
+                // Reset form
+                report.value = '';
+
+                setTimeout(() => {
+                    confirmation.style.display = 'none';
+                }, 5000);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,84 @@
+﻿@page "/SeniorTutorlogin"
+@inject NavigationManager Navigation
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Login page</title>
+
+<!-- CSS FILES -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,700&display=swap" rel="stylesheet">
+<link href="CSS/UI.min.css" rel="stylesheet">
+<link href="CSS/UI-icons.css" rel="stylesheet">
+<link href="CSS/UI-pack.css" rel="stylesheet">
+
+<main>
+    <section class="hero-section d-flex justify-content-center align-items-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-12 mx-auto">
+                    <form>
+                        <h2 class="hero-title text-center mb-4 pb-2">Login Form</h2>
+
+                        <!-- Email Field (now writeable) -->
+                        <div class="form-floating mb-4 p-0">
+                            <input type="email"
+                                   class="form-control"
+                                   placeholder="Email address"
+                                   id="supervisorEmail"
+                                   autocomplete="username"
+                                   required />
+                            <label for="supervisorEmail">Email address</label>
+                        </div>
+
+                        <!-- Password Field (now writeable) -->
+                        <div class="form-floating mb-4 p-0">
+                            <input type="password"
+                                   class="form-control"
+                                   placeholder="Password"
+                                   id="supervisorPassword"
+                                   autocomplete="current-password"
+                                   required />
+                            <label for="supervisorPassword">Password</label>
+                        </div>
+
+                        <!-- Login Link styled as button -->
+                        <div class="row justify-content-center align-items-center">
+                            <div class="col-lg-5 col-12">
+                                <a href="/seniortutordashboard"
+                                   class="form-control text-center text-decoration-none"
+                                   onclick="return validateLogin()">Login</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</main>
+
+<!-- JAVASCRIPT FILES -->
+<script src="js/jquery.min.js"></script>
+<script src="js/UIX.bundle.min.js"></script>
+<script src="js/countdown.js"></script>
+<script src="js/init.js"></script>
+
+<script>
+
+    function validateLogin() {
+        const email = document.getElementById('supervisorEmail').value;
+        const password = document.getElementById('supervisorPassword').value;
+
+        if (!email || !password)
+        {
+            alert('Enter both email and password');
+            return false;
+        }
+
+        return true;
+    }
+</script>
