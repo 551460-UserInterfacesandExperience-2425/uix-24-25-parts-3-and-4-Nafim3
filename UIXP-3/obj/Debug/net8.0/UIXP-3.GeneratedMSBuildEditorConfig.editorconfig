@@ -32,16 +32,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/C\#/UIX test/UIXP-3/Components/Pages/Register.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWdpc3Rlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/C\#/UIX test/UIXP-3/Components/Pages/Senior Tutor Login.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZW5pb3IgVHV0b3IgTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/C\#/UIX test/UIXP-3/Components/Pages/SeniorTutor.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZW5pb3JUdXRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/UIX test/UIXP-3/Components/Pages/SeniortutorRegister.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZW5pb3J0dXRvclJlZ2lzdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/C\#/UIX test/UIXP-3/Components/Pages/Student.razor]
@@ -52,12 +52,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdHVkZW50TG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/C\#/UIX test/UIXP-3/Components/Pages/StudentRegister.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdHVkZW50UmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/C\#/UIX test/UIXP-3/Components/Pages/Supervisor.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdXBlcnZpc29yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/C\#/UIX test/UIXP-3/Components/Pages/SupervisorLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdXBlcnZpc29yTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/UIX test/UIXP-3/Components/Pages/SupervisorRegister.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdXBlcnZpc29yUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/C\#/UIX test/UIXP-3/Components/Routes.razor]

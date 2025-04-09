@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UIXP-3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12b7dff280848219573420573bea3c70bd65fec2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb0362194f7d1163eae2f3d32f859ffd8beb3056")]
 [assembly: System.Reflection.AssemblyProductAttribute("UIXP-3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UIXP-3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
