@@ -1,5 +1,6 @@
-﻿@page "/"
+﻿
 
+@page "/"
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,35 +12,23 @@
 
 <!-- CSS FILES -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
-
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,700;1,200&family=Unbounded:wght@400;700&display=swap" rel="stylesheet">
-
 <link href="css/UI.min.css" rel="stylesheet">
-
 <link href="css/UI-icons.css" rel="stylesheet">
-
 <link href="css/UI-pack.css" rel="stylesheet">
 
-
-
 <main>
-
-
-
-
     <header class="site-header">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-lg-12 col-12 d-flex">
                     <a class="site-header-text d-flex justify-content-center align-items-center me-auto">
-                      
                         <span>
                             Academic Performance Manager
                         </span>
                     </a>
-                    <a class="menu-text" data-bs-toggle="offcanvas" href="#offcanvasMenu" role="button" aria-controls="offcanvasMenu">Menu</a> <!-- Replace with desired text -->
+                    <a class="menu-text" data-bs-toggle="offcanvas" href="#offcanvasMenu" role="button" aria-controls="offcanvasMenu">Menu</a>
                 </div>
             </div>
         </div>
@@ -53,9 +42,11 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="/register">Create an account</a>
+                        <a href="/faq">Frequently Asked Questions</a>
                     </li>
+                    
                     <li>
+                        <br>
                         <a href="/aboutus">About Us</a>
                     </li>
                 </ul>
@@ -63,34 +54,25 @@
         </div>
     </div>
 
-
-
-
-
-
     <section class="hero-section hero-bg d-flex justify-content-center align-items-center">
         <div class="container">
             <div class="row">
-
                 <div class="col-lg-8 col-12 text-center mx-auto">
-                    <h2 class="page-Home-title">Welcome to the Home page</h2>
-                    <br>
-                    <p>Choose your position from the dropdown box</p>
+                    <br><br><br>
+                    <p class="page-home-description">Choose your position from the drop-down box</p>
+                    <br><br>
                     <section class="options-section d-flex justify-content-center align-items-center">
                         <div class="options-box">
                             <ul>
                                 <li>
-                                    <a href="/Studentlogin">Student</a>
+                                    <a href="/Studentlogin"><b>Student</b></a>
                                 </li>
-
                                 <li>
-                                    <a href="/Supervisorlogin">Supervisor</a>
+                                    <a href="/Supervisorlogin"><b>Supervisor</b></a>
                                 </li>
-
                                 <li>
-                                    <a href="/SeniorTutorlogin">Senior Tutor</a>
+                                    <a href="/SeniorTutorlogin"><b>Senior Tutor</b></a>
                                 </li>
-
                             </ul>
                         </div>
                     </section>
@@ -98,18 +80,10 @@
             </div>
         </div>
     </section>
-
-
-
 </main>
-
-
 
 <!-- JAVASCRIPT FILES -->
 <script src="js/jquery.min.js"></script>
 <script src="js/UIX.bundle.min.js"></script>
 <script src="js/countdown.js"></script>
 <script src="js/init.js"></script>
-
-
-

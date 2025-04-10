@@ -35,6 +35,7 @@
         }
 
         .register-card {
+            
             background: white;
             border-radius: 12px;
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
@@ -80,12 +81,32 @@
             cursor: pointer;
             margin-top: 0.5rem;
         }
+
+        .left-link {
+            position: fixed;
+            top: 1.5rem;
+            left: 2rem;
+            z-index: 1000;
+        }
+
+            .left-link a {
+                text-decoration: none;
+                color: var(--primary);
+                font-weight: 600;
+                font-size: 1rem;
+            }
+
+
     </style>
 </head>
 <body>
     <div class="register-container">
         <div class="register-card">
             <h1 class="register-title">Login</h1>
+
+            <div class="left-link">
+                <a href="/">Previous Page</a>
+            </div>
 
             <div class="form-group">
                 <label>Email Address</label>
@@ -98,9 +119,11 @@
             </div>
 
             <button class="register-btn" onclick="validateLogin()">Login</button>
-            <br>
-            <p style="text-align: center; margin-top: 1rem;">Dont't have an account? <a href="/studentregister" style="color: var(--primary);">Sign Up</a></p>
 
+            <p style="text-align: center; margin-top: 1rem;">
+                Don't have an account?
+                <a href="/studentregister" style="color: var(--primary);">Sign Up</a>
+            </p>
         </div>
     </div>
 

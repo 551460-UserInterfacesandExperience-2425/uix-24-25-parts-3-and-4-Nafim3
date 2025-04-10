@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dCBVcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/C\#/UIX test/UIXP-3/Components/Pages/FAQ.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGQVEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/C\#/UIX test/UIXP-3/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

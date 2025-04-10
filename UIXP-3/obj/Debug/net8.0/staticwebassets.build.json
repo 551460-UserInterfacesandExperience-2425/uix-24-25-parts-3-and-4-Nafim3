@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dX6oHJPgvW8hXw6cd5OslrVufYgef1ttHl6pdclHWhw=",
+  "Hash": "s5mSHgp8h9qqJ7t3FHQE23CUCQlOjAcCL0dt0gAOxP4=",
   "Source": "UIXP-3",
   "BasePath": "_content/UIXP-3",
   "Mode": "Default",
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "et7y02fj2b",
-      "Integrity": "7qsjR4DxNxfk5RnT2ISLcI3E8OJFqGtMxr0Qmrfmvxs=",
+      "Fingerprint": "1h13jeb441",
+      "Integrity": "NcUUAD6OMDJuSFCskvUPUgpruFN3Byg7OUEs7p+9lZ0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\UI-pack.css"
@@ -435,6 +435,51 @@
       ]
     },
     {
+      "Route": "CSS/UI-pack.1h13jeb441.css",
+      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NcUUAD6OMDJuSFCskvUPUgpruFN3Byg7OUEs7p+9lZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 00:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1h13jeb441"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/UI-pack.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NcUUAD6OMDJuSFCskvUPUgpruFN3Byg7OUEs7p+9lZ0="
+        }
+      ]
+    },
+    {
       "Route": "CSS/UI-pack.css",
       "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
       "Selectors": [],
@@ -445,7 +490,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14839"
+          "Value": "18993"
         },
         {
           "Name": "Content-Type",
@@ -453,11 +498,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7qsjR4DxNxfk5RnT2ISLcI3E8OJFqGtMxr0Qmrfmvxs=\""
+          "Value": "\"NcUUAD6OMDJuSFCskvUPUgpruFN3Byg7OUEs7p+9lZ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 15:46:32 GMT"
+          "Value": "Thu, 10 Apr 2025 00:18:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -467,52 +512,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7qsjR4DxNxfk5RnT2ISLcI3E8OJFqGtMxr0Qmrfmvxs="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/UI-pack.et7y02fj2b.css",
-      "AssetFile": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14839"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7qsjR4DxNxfk5RnT2ISLcI3E8OJFqGtMxr0Qmrfmvxs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 15:46:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "et7y02fj2b"
-        },
-        {
-          "Name": "label",
-          "Value": "CSS/UI-pack.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7qsjR4DxNxfk5RnT2ISLcI3E8OJFqGtMxr0Qmrfmvxs="
+          "Value": "sha256-NcUUAD6OMDJuSFCskvUPUgpruFN3Byg7OUEs7p+9lZ0="
         }
       ]
     },

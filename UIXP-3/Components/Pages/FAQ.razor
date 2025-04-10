@@ -1,0 +1,136 @@
+﻿@page "/faq"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FAQ</title>
+    <style>
+        :root {
+            --primary: #4361ee;
+            --light: #f5f7ff;
+            --dark: #212529;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--light);
+            margin: 0;
+            padding: 2rem;
+            color: var(--dark);
+            display: flex;
+            justify-content: center;
+        }
+
+        .faq-container {
+            max-width: 800px;
+            width: 100%;
+            background-color: white;
+            padding: 2rem 3rem;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        .faq-title {
+            text-align: center;
+            font-size: 2rem;
+            color: var(--primary);
+            margin-bottom: 2rem;
+            font-weight: 700;
+        }
+
+        .faq-item {
+            margin-bottom: 1.5rem;
+        }
+
+        .faq-question {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .faq-answer {
+            margin-left: 1rem;
+            color: #555;
+        }
+
+        .contact {
+            margin-top: 2.5rem;
+            text-align: center;
+            border-top: 1px solid #ddd;
+            padding-top: 2rem;
+        }
+
+            .contact h3 {
+                font-size: 1.25rem;
+                color: var(--primary);
+                margin-bottom: 0.5rem;
+            }
+
+            .contact a {
+                color: var(--dark);
+                text-decoration: none;
+                font-weight: 500;
+            }
+
+                .contact a:hover {
+                    color: var(--primary);
+                }
+
+
+        .back-home {
+            margin-top: 2rem;
+            text-align: center;
+        }
+
+        .home-link {
+            text-decoration: none;
+            color: var(--primary);
+            font-weight: 600;
+            transition: color 0.3s;
+        }
+
+            .home-link:hover {
+                color: #3a56d4;
+            }
+
+
+    </style>
+</head>
+<body>
+    <div class="faq-container">
+        <div class="faq-title">Frequently Asked Questions</div>
+        <br>
+
+        <div class="faq-item">
+            <div class="faq-question">How do I create an account?</div>
+            <div class="faq-answer">Click on the Register button and fill in your details. You'll be redirected upon successful registration.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">I forgot my password. What should I do?</div>
+            <div class="faq-answer">Currently, we do not support password recovery. Contact support to reset your credentials.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">How is my data stored?</div>
+            <div class="faq-answer">This website is built on the concept of only for designing the UX sequences. Some data may be stored yet get removed by browser cache as no actual database is being used.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Can I update my account information?</div>
+            <div class="faq-answer">No, Such services were not added yet</div>
+        </div>
+
+        <div class="contact">
+            <h3>Still have questions?</h3>
+            <p>Contact us at: <a href="mailto:M.R.NAFIM-2022@hull.ac.uk">M.R.NAFIM-2022@hull.ac.uk</a></p>
+        </div>
+
+        <div class="back-home">
+            <a href="/" class="home-link">← Back to Home</a>
+        </div>
+
+    </div>
+</body>
+</html>
