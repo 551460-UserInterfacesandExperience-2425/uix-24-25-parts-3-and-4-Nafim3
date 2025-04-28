@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\C#\\UIX test\\UIXP-3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\wwwroot\\css\\ui-pack.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:wwwroot\\css\\ui-pack.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\wwwroot\\css\\ui-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:wwwroot\\css\\ui-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -43,24 +59,8 @@
       "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\faq.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\wwwroot\\css\\ui-pack.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:wwwroot\\css\\ui-pack.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\wwwroot\\css\\ui-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:wwwroot\\css\\ui-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\wwwroot\\css\\ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -105,50 +105,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentRegister.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentRegister.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\StudentRegister.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentRegister.razor",
-              "RelativeToolTip": "Components\\Pages\\StudentRegister.razor",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T02:08:35.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SupervisorRegister.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorRegister.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\SupervisorRegister.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorRegister.razor",
-              "RelativeToolTip": "Components\\Pages\\SupervisorRegister.razor",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T16:09:41.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Student.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Student.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Student.razor",
-              "RelativeToolTip": "Components\\Pages\\Student.razor",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T22:46:20.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Supervisor.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Supervisor.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Supervisor.razor",
@@ -161,20 +122,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SeniorTutor.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\SeniorTutor.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor*",
-              "RelativeToolTip": "Components\\Pages\\SeniorTutor.razor*",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAAAM8AAAA/AAAAAAAAAA==",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor",
+              "RelativeToolTip": "Components\\Pages\\SeniorTutor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-05T22:44:26.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "About Us.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\About Us.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\About Us.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\About Us.razor*",
+              "RelativeToolTip": "Components\\Pages\\About Us.razor*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T17:30:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI-pack.css",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+              "RelativeDocumentMoniker": "wwwroot\\CSS\\UI-pack.css",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+              "RelativeToolTip": "wwwroot\\CSS\\UI-pack.css",
+              "ViewState": "AgIAAB8DAAAAAAAAAAAAACcDAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-31T00:41:32.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:24:48.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI-icons.css",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
+              "RelativeDocumentMoniker": "wwwroot\\CSS\\UI-icons.css",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
+              "RelativeToolTip": "wwwroot\\CSS\\UI-icons.css",
+              "ViewState": "AgIAADcHAAAAAAAAAAAAAHMDAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T14:42:42.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Student.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Student.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Student.razor",
+              "RelativeToolTip": "Components\\Pages\\Student.razor",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T22:46:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupervisorRegister.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorRegister.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SupervisorRegister.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorRegister.razor",
+              "RelativeToolTip": "Components\\Pages\\SupervisorRegister.razor",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T16:09:41.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRegister.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentRegister.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\StudentRegister.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentRegister.razor",
+              "RelativeToolTip": "Components\\Pages\\StudentRegister.razor",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T02:08:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SeniortutorRegister.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniortutorRegister.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\SeniortutorRegister.razor",
@@ -187,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Senior Tutor Login.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Senior Tutor Login.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Senior Tutor Login.razor",
@@ -214,19 +266,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Home.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwDIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T19:24:48.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "SupervisorLogin.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorLogin.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\SupervisorLogin.razor",
@@ -239,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "StudentLogin.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentLogin.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\StudentLogin.razor",
@@ -253,19 +292,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UI-pack.css",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
-              "RelativeDocumentMoniker": "wwwroot\\CSS\\UI-pack.css",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
-              "RelativeToolTip": "wwwroot\\CSS\\UI-pack.css",
-              "ViewState": "AgIAAD4CAAAAAAAAAAAuwDYCAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-31T00:41:32.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "FAQ.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\FAQ.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\FAQ.razor",
@@ -278,20 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "About Us.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\About Us.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\About Us.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\About Us.razor",
-              "RelativeToolTip": "Components\\Pages\\About Us.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T17:30:39.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -300,19 +313,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T23:26:58.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UI-icons.css",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
-              "RelativeDocumentMoniker": "wwwroot\\CSS\\UI-icons.css",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
-              "RelativeToolTip": "wwwroot\\CSS\\UI-icons.css",
-              "ViewState": "AgIAADcHAAAAAAAAAAAAAHMDAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T14:42:42.826Z",
               "EditorCaption": ""
             },
             {
