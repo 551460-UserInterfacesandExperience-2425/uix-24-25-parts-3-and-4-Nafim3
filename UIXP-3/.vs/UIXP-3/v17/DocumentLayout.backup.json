@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "E:\\C#\\UIX test\\UIXP-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\studentlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\studentlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\supervisor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\supervisor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\student.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\student.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\faq.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\faq.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\supervisorregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\supervisorregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\studentregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\studentregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\seniortutorregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\seniortutorregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\senior tutor login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\senior tutor login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\supervisorlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\supervisorlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\studentlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\studentlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\faq.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\faq.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\supervisor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\supervisor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\supervisorlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\supervisorlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,22 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\wwwroot\\css\\ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:wwwroot\\css\\ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\senior tutor login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\senior tutor login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\seniortutorregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\seniortutorregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\studentregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\studentregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\supervisorregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\supervisorregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -105,11 +105,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "StudentRegister.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentRegister.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\StudentRegister.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentRegister.razor",
+              "RelativeToolTip": "Components\\Pages\\StudentRegister.razor",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T02:08:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupervisorRegister.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorRegister.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SupervisorRegister.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorRegister.razor",
+              "RelativeToolTip": "Components\\Pages\\SupervisorRegister.razor",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T16:09:41.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Student.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Student.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Student.razor",
+              "RelativeToolTip": "Components\\Pages\\Student.razor",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T22:46:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Supervisor.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Supervisor.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Supervisor.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Supervisor.razor",
+              "RelativeToolTip": "Components\\Pages\\Supervisor.razor",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:38:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeniorTutor.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SeniorTutor.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor*",
+              "RelativeToolTip": "Components\\Pages\\SeniorTutor.razor*",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAAMwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T22:44:26.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeniortutorRegister.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniortutorRegister.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SeniortutorRegister.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniortutorRegister.razor",
+              "RelativeToolTip": "Components\\Pages\\SeniortutorRegister.razor",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T16:29:59.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Senior Tutor Login.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Senior Tutor Login.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Senior Tutor Login.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Senior Tutor Login.razor",
+              "RelativeToolTip": "Components\\Pages\\Senior Tutor Login.razor",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T22:32:45.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UI.min.css",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
               "RelativeDocumentMoniker": "wwwroot\\CSS\\UI.min.css",
@@ -122,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Home.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -135,20 +226,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FAQ.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\FAQ.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\FAQ.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\FAQ.razor",
-              "RelativeToolTip": "Components\\Pages\\FAQ.razor",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "SupervisorLogin.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorLogin.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SupervisorLogin.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorLogin.razor",
+              "RelativeToolTip": "Components\\Pages\\SupervisorLogin.razor",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T17:41:23.889Z",
+              "WhenOpened": "2025-04-05T21:41:27.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "StudentLogin.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentLogin.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\StudentLogin.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentLogin.razor",
+              "RelativeToolTip": "Components\\Pages\\StudentLogin.razor",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T23:46:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UI-pack.css",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
               "RelativeDocumentMoniker": "wwwroot\\CSS\\UI-pack.css",
@@ -161,59 +265,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SeniorTutor.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\SeniorTutor.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor",
-              "RelativeToolTip": "Components\\Pages\\SeniorTutor.razor",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAswLoAAABAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "FAQ.razor",
+              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\FAQ.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\FAQ.razor",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\FAQ.razor",
+              "RelativeToolTip": "Components\\Pages\\FAQ.razor",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T22:44:26.611Z",
+              "WhenOpened": "2025-04-09T17:41:23.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentLogin.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentLogin.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\StudentLogin.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentLogin.razor*",
-              "RelativeToolTip": "Components\\Pages\\StudentLogin.razor*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T23:46:03.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Student.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Student.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Student.razor",
-              "RelativeToolTip": "Components\\Pages\\Student.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T22:46:20.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Supervisor.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Supervisor.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Supervisor.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Supervisor.razor",
-              "RelativeToolTip": "Components\\Pages\\Supervisor.razor",
-              "ViewState": "AgIAAAUBAAAAAAAAAAAAABABAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T21:38:34.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "About Us.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\About Us.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\About Us.razor",
@@ -226,20 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SupervisorLogin.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorLogin.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\SupervisorLogin.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorLogin.razor",
-              "RelativeToolTip": "Components\\Pages\\SupervisorLogin.razor",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAAwHcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T21:41:27.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -252,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "UI-icons.css",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
               "RelativeDocumentMoniker": "wwwroot\\CSS\\UI-icons.css",
@@ -261,58 +313,6 @@
               "ViewState": "AgIAADcHAAAAAAAAAAAAAHMDAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-04-05T14:42:42.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SeniortutorRegister.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniortutorRegister.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\SeniortutorRegister.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniortutorRegister.razor",
-              "RelativeToolTip": "Components\\Pages\\SeniortutorRegister.razor",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAGkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T16:29:59.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Senior Tutor Login.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Senior Tutor Login.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Senior Tutor Login.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Senior Tutor Login.razor",
-              "RelativeToolTip": "Components\\Pages\\Senior Tutor Login.razor",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwGoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T22:32:45.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StudentRegister.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentRegister.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\StudentRegister.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\StudentRegister.razor",
-              "RelativeToolTip": "Components\\Pages\\StudentRegister.razor",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAAAGAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T02:08:35.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SupervisorRegister.razor",
-              "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorRegister.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\SupervisorRegister.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SupervisorRegister.razor",
-              "RelativeToolTip": "Components\\Pages\\SupervisorRegister.razor",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T16:09:41.138Z",
               "EditorCaption": ""
             },
             {
