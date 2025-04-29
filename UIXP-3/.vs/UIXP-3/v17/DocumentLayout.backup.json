@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\C#\\UIX test\\UIXP-3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|solutionrelative:components\\pages\\seniortutor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E998D5-9CA8-45FC-AB68-B321FF847991}|UIXP-3.csproj|e:\\c#\\uix test\\uixp-3\\components\\pages\\supervisor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -105,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -117,38 +117,36 @@
               "RelativeToolTip": "Components\\Pages\\Supervisor.razor",
               "ViewState": "AgIAABoAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T21:38:34.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T21:38:34.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SeniorTutor.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\SeniorTutor.razor",
               "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\SeniorTutor.razor",
               "RelativeToolTip": "Components\\Pages\\SeniorTutor.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAALMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-05T22:44:26.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "About Us.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\About Us.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\About Us.razor",
-              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\About Us.razor*",
-              "RelativeToolTip": "Components\\Pages\\About Us.razor*",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAqwIgAAAAJAAAAAAAAAA==",
+              "ToolTip": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\About Us.razor",
+              "RelativeToolTip": "Components\\Pages\\About Us.razor",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAqwMIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T17:30:39.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T17:30:39.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UI-pack.css",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
               "RelativeDocumentMoniker": "wwwroot\\CSS\\UI-pack.css",
@@ -156,12 +154,11 @@
               "RelativeToolTip": "wwwroot\\CSS\\UI-pack.css",
               "ViewState": "AgIAAB8DAAAAAAAAAAAAACcDAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-31T00:41:32.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T00:41:32.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Home.razor",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -169,12 +166,11 @@
               "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T19:24:48.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T19:24:48.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UI-icons.css",
               "DocumentMoniker": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
               "RelativeDocumentMoniker": "wwwroot\\CSS\\UI-icons.css",
@@ -182,8 +178,7 @@
               "RelativeToolTip": "wwwroot\\CSS\\UI-icons.css",
               "ViewState": "AgIAADcHAAAAAAAAAAAAAHMDAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T14:42:42.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T14:42:42.826Z"
             },
             {
               "$type": "Document",
@@ -195,8 +190,7 @@
               "RelativeToolTip": "Components\\Pages\\Student.razor",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T22:46:20.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T22:46:20.995Z"
             },
             {
               "$type": "Document",
@@ -208,8 +202,7 @@
               "RelativeToolTip": "Components\\Pages\\SupervisorRegister.razor",
               "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T16:09:41.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T16:09:41.138Z"
             },
             {
               "$type": "Document",
@@ -221,8 +214,7 @@
               "RelativeToolTip": "Components\\Pages\\StudentRegister.razor",
               "ViewState": "AgIAACIAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T02:08:35.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T02:08:35.394Z"
             },
             {
               "$type": "Document",
@@ -234,8 +226,7 @@
               "RelativeToolTip": "Components\\Pages\\SeniortutorRegister.razor",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T16:29:59.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T16:29:59.153Z"
             },
             {
               "$type": "Document",
@@ -247,8 +238,7 @@
               "RelativeToolTip": "Components\\Pages\\Senior Tutor Login.razor",
               "ViewState": "AgIAABkAAAAAAAAAAAAAwCcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T22:32:45.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T22:32:45.823Z"
             },
             {
               "$type": "Document",
@@ -260,8 +250,7 @@
               "RelativeToolTip": "wwwroot\\CSS\\UI.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-09T14:12:19.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T14:12:19.297Z"
             },
             {
               "$type": "Document",
@@ -273,8 +262,7 @@
               "RelativeToolTip": "Components\\Pages\\SupervisorLogin.razor",
               "ViewState": "AgIAACAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T21:41:27.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T21:41:27.062Z"
             },
             {
               "$type": "Document",
@@ -286,8 +274,7 @@
               "RelativeToolTip": "Components\\Pages\\StudentLogin.razor",
               "ViewState": "AgIAACAAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T23:46:03.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T23:46:03.368Z"
             },
             {
               "$type": "Document",
@@ -299,8 +286,7 @@
               "RelativeToolTip": "Components\\Pages\\FAQ.razor",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T17:41:23.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T17:41:23.889Z"
             },
             {
               "$type": "Document",
@@ -312,8 +298,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:26:58.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T23:26:58.671Z"
             },
             {
               "$type": "Document",
@@ -337,8 +322,7 @@
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T10:26:38.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T10:26:38.383Z"
             },
             {
               "$type": "Document",
@@ -350,8 +334,7 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor.css",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-09T15:17:08.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T15:17:08.621Z"
             },
             {
               "$type": "Document",
@@ -363,8 +346,7 @@
               "RelativeToolTip": "..\\..\\UIX downloaded files\\2136_kool_form_pack\\css\\UI.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-09T14:44:25.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T14:44:25.085Z"
             },
             {
               "$type": "Document",
@@ -376,8 +358,7 @@
               "RelativeToolTip": "wwwroot\\JS\\UIX.bundle.min.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-06T16:06:33.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T16:06:33.515Z"
             },
             {
               "$type": "Document",
@@ -389,8 +370,7 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T09:54:33.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T09:54:33.552Z"
             },
             {
               "$type": "Document",
@@ -402,8 +382,7 @@
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T09:55:50.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T09:55:50.763Z"
             },
             {
               "$type": "Document",
@@ -415,8 +394,7 @@
               "RelativeToolTip": "bin\\Debug\\net8.0\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-02T15:46:09.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T15:46:09.035Z"
             }
           ]
         }
