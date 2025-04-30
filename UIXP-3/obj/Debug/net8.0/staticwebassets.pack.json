@@ -5,16 +5,8 @@
       "PackagePath": "staticwebassets\\UIXP-3.b5kr1pcvc8.bundle.scp.css"
     },
     {
-      "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
-      "PackagePath": "staticwebassets\\CSS\\UI-icons.css"
-    },
-    {
       "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
       "PackagePath": "staticwebassets\\CSS\\UI-pack.css"
-    },
-    {
-      "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
-      "PackagePath": "staticwebassets\\CSS\\UI.min.css"
     },
     {
       "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
@@ -27,22 +19,6 @@
     {
       "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
       "PackagePath": "staticwebassets\\Images\\BGI.jpg"
-    },
-    {
-      "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
-      "PackagePath": "staticwebassets\\JS\\UIX.bundle.min.js"
-    },
-    {
-      "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\countdown.js",
-      "PackagePath": "staticwebassets\\JS\\countdown.js"
-    },
-    {
-      "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\init.js",
-      "PackagePath": "staticwebassets\\JS\\init.js"
-    },
-    {
-      "Id": "E:\\C#\\UIX test\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
-      "PackagePath": "staticwebassets\\JS\\jquery.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UIXP-3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

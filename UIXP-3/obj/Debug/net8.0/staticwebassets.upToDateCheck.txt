@@ -1,10 +1,4 @@
-wwwroot\CSS\UI.min.css
-wwwroot\CSS\UI-icons.css
 wwwroot\CSS\UI-pack.css
 wwwroot\Fonts\bootstrap-icons.woff
 wwwroot\Fonts\bootstrap-icons.woff2
 wwwroot\Images\BGI.jpg
-wwwroot\JS\countdown.js
-wwwroot\JS\init.js
-wwwroot\JS\jquery.min.js
-wwwroot\JS\UIX.bundle.min.js
