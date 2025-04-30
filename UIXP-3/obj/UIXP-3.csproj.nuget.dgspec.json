@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\UIX test\\UIXP-3\\UIXP-3.csproj": {}
+    "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\UIXP-3.csproj": {}
   },
   "projects": {
-    "E:\\C#\\UIX test\\UIXP-3\\UIXP-3.csproj": {
+    "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\UIXP-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\UIX test\\UIXP-3\\UIXP-3.csproj",
+        "projectUniqueName": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\UIXP-3.csproj",
         "projectName": "UIXP-3",
-        "projectPath": "E:\\C#\\UIX test\\UIXP-3\\UIXP-3.csproj",
-        "packagesPath": "C:\\Users\\nafim\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\UIX test\\UIXP-3\\obj\\",
+        "projectPath": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\UIXP-3.csproj",
+        "packagesPath": "C:\\Users\\801420\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nafim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\801420\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -75,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
