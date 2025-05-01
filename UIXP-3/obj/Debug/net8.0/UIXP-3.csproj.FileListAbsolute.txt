@@ -140,3 +140,40 @@ C:\Users\801420\OneDrive - hull.ac.uk\Desktop\uix-24-25-parts-\uix-24-25-parts-3
 C:\Users\801420\OneDrive - hull.ac.uk\Desktop\uix-24-25-parts-\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\UIXP-3\obj\Debug\net8.0\UIXP-3.pdb
 C:\Users\801420\OneDrive - hull.ac.uk\Desktop\uix-24-25-parts-\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\UIXP-3\obj\Debug\net8.0\UIXP-3.genruntimeconfig.cache
 C:\Users\801420\OneDrive - hull.ac.uk\Desktop\uix-24-25-parts-\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\UIXP-3\obj\Debug\net8.0\ref\UIXP-3.dll
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\appsettings.Development.json
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\appsettings.json
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\UIXP-3.staticwebassets.runtime.json
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\UIXP-3.staticwebassets.endpoints.json
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\UIXP-3.exe
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\UIXP-3.deps.json
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\UIXP-3.runtimeconfig.json
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\UIXP-3.dll
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\UIXP-3.pdb
+E:\C#\UIX ACW\UIXP-3\bin\Debug\net8.0\Blazored.LocalStorage.dll
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.csproj.AssemblyReference.cache
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.AssemblyInfoInputs.cache
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.AssemblyInfo.cs
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.csproj.CoreCompileInputs.cache
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.sourcelink.json
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\scopedcss\bundle\UIXP-3.styles.css
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\scopedcss\projectbundle\UIXP-3.bundle.scp.css
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets.build.json
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets.development.json
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets\msbuild.UIXP-3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets\msbuild.UIXP-3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets\msbuild.build.UIXP-3.props
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UIXP-3.props
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UIXP-3.props
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.csproj.Up2Date
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.dll
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\refint\UIXP-3.dll
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.pdb
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\UIXP-3.genruntimeconfig.cache
+E:\C#\UIX ACW\UIXP-3\obj\Debug\net8.0\ref\UIXP-3.dll

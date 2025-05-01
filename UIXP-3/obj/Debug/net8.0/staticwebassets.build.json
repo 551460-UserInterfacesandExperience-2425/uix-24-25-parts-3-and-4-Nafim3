@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZCMYaryX+K0h/6DaimBvx2OAwXcqMGynuD06TjXKjp0=",
+  "Hash": "Q3kY/fHHzj5HrP490N2svCRBpDJ/mmG/GOnwY0ZjVGY=",
   "Source": "UIXP-3",
   "BasePath": "_content/UIXP-3",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "UIXP-3\\wwwroot",
       "Source": "UIXP-3",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
       "SourceId": "UIXP-3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "UIXP-3.styles.css",
+      "RelativePath": "UIXP-3#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,17 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "b5kr1pcvc8",
+      "Integrity": "QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css"
+      "OriginalItemSpec": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
       "SourceId": "UIXP-3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "UIXP-3.bundle.scp.css",
+      "RelativePath": "UIXP-3#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -50,199 +52,1207 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "b5kr1pcvc8",
+      "Integrity": "QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css"
+      "OriginalItemSpec": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "CSS/UI.min.css",
+      "RelativePath": "CSS/UI.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "i1s09z91nb",
+      "Integrity": "9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\UI.min.css"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "CSS/UI-icons.css",
+      "RelativePath": "CSS/UI-icons#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "1nv8kpn4fm",
+      "Integrity": "06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\UI-icons.css"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "CSS/UI-pack.css",
+      "RelativePath": "CSS/UI-pack#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "c43ivszz2j",
+      "Integrity": "TD/xR4dW4zQV+o2HNEpLGv1UWUuBdLtV3+bE2LzmP+E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\UI-pack.css"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "Fonts/bootstrap-icons.woff",
+      "RelativePath": "Fonts/bootstrap-icons#[.{fingerprint}]?.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "t8boe7hjru",
+      "Integrity": "E5d7So1h1TPbh/6wQAfvsDTDvSnjSm89uiajTu3sOxM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "Fonts/bootstrap-icons.woff2",
+      "RelativePath": "Fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "a0fdf22wtr",
+      "Integrity": "xpvxzK5fE7WqQ0Xc/rIJqBSK0L+h4GeLk3kqrgQpx2Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "Images/BGI.jpg",
+      "RelativePath": "Images/BGI#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8nupwmcn73",
+      "Integrity": "nOA/OEGUcyi/B5dLSLRET1AmlFGxPgauFJ5xZQJhZKY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\BGI.jpg"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\JS\\countdown.js",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\countdown.js",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "JS/countdown.js",
+      "RelativePath": "JS/countdown#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "66zt41b59l",
+      "Integrity": "spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\countdown.js"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\JS\\init.js",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\init.js",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "JS/init.js",
+      "RelativePath": "JS/init#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "x6l4dc0cp6",
+      "Integrity": "SSH8GoBdfklU9x+HlFWMLevbkLJhDIzNEz0/D2/885I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\init.js"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "JS/jquery.min.js",
+      "RelativePath": "JS/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "yae487z44e",
+      "Integrity": "lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
+      "Identity": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
       "SourceId": "UIXP-3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\801420\\OneDrive - hull.ac.uk\\Desktop\\uix-24-25-parts-\\uix-24-25-parts-3-and-4-Nafim3-a7761d07e3371e36a2093f50671d437968e9d041\\UIXP-3\\wwwroot\\",
+      "ContentRoot": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\",
       "BasePath": "_content/UIXP-3",
-      "RelativePath": "JS/UIX.bundle.min.js",
+      "RelativePath": "JS/UIX.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "43h7ql542q",
+      "Integrity": "wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\UIX.bundle.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CSS/UI.min.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/UI.min.i1s09z91nb.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i1s09z91nb"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/UI.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9nJEdj8+bSI4iF2Z0BKQybTbfQYYCxJ9L449COMNBKw="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/UI-icons.1nv8kpn4fm.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1nv8kpn4fm"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/UI-icons.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/UI-icons.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-06WkEbsvRUyf8uVWutNpjhJ7rZ8h9D07PfTu3uCzwpk="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/UI-pack.c43ivszz2j.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TD/xR4dW4zQV+o2HNEpLGv1UWUuBdLtV3+bE2LzmP+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 01:32:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c43ivszz2j"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/UI-pack.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TD/xR4dW4zQV+o2HNEpLGv1UWUuBdLtV3+bE2LzmP+E="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/UI-pack.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\CSS\\UI-pack.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TD/xR4dW4zQV+o2HNEpLGv1UWUuBdLtV3+bE2LzmP+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 01:32:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TD/xR4dW4zQV+o2HNEpLGv1UWUuBdLtV3+bE2LzmP+E="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/bootstrap-icons.a0fdf22wtr.woff2",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpvxzK5fE7WqQ0Xc/rIJqBSK0L+h4GeLk3kqrgQpx2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0fdf22wtr"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/bootstrap-icons.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpvxzK5fE7WqQ0Xc/rIJqBSK0L+h4GeLk3kqrgQpx2Q="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/bootstrap-icons.t8boe7hjru.woff",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E5d7So1h1TPbh/6wQAfvsDTDvSnjSm89uiajTu3sOxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t8boe7hjru"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/bootstrap-icons.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E5d7So1h1TPbh/6wQAfvsDTDvSnjSm89uiajTu3sOxM="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/bootstrap-icons.woff",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E5d7So1h1TPbh/6wQAfvsDTDvSnjSm89uiajTu3sOxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E5d7So1h1TPbh/6wQAfvsDTDvSnjSm89uiajTu3sOxM="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/bootstrap-icons.woff2",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpvxzK5fE7WqQ0Xc/rIJqBSK0L+h4GeLk3kqrgQpx2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpvxzK5fE7WqQ0Xc/rIJqBSK0L+h4GeLk3kqrgQpx2Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/BGI.8nupwmcn73.jpg",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nOA/OEGUcyi/B5dLSLRET1AmlFGxPgauFJ5xZQJhZKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8nupwmcn73"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/BGI.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nOA/OEGUcyi/B5dLSLRET1AmlFGxPgauFJ5xZQJhZKY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/BGI.jpg",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\Images\\BGI.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nOA/OEGUcyi/B5dLSLRET1AmlFGxPgauFJ5xZQJhZKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nOA/OEGUcyi/B5dLSLRET1AmlFGxPgauFJ5xZQJhZKY="
+        }
+      ]
+    },
+    {
+      "Route": "JS/countdown.66zt41b59l.js",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\countdown.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66zt41b59l"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/countdown.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E="
+        }
+      ]
+    },
+    {
+      "Route": "JS/countdown.js",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\countdown.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-spCvreHDnci3HsdCXKfYauMpdjoV3t/RPNPfxu+eo7E="
+        }
+      ]
+    },
+    {
+      "Route": "JS/init.js",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\init.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSH8GoBdfklU9x+HlFWMLevbkLJhDIzNEz0/D2/885I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSH8GoBdfklU9x+HlFWMLevbkLJhDIzNEz0/D2/885I="
+        }
+      ]
+    },
+    {
+      "Route": "JS/init.x6l4dc0cp6.js",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\init.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSH8GoBdfklU9x+HlFWMLevbkLJhDIzNEz0/D2/885I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x6l4dc0cp6"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/init.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSH8GoBdfklU9x+HlFWMLevbkLJhDIzNEz0/D2/885I="
+        }
+      ]
+    },
+    {
+      "Route": "JS/jquery.min.js",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc="
+        }
+      ]
+    },
+    {
+      "Route": "JS/jquery.min.yae487z44e.js",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yae487z44e"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc="
+        }
+      ]
+    },
+    {
+      "Route": "JS/UIX.bundle.min.43h7ql542q.js",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43h7ql542q"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/UIX.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4="
+        }
+      ]
+    },
+    {
+      "Route": "JS/UIX.bundle.min.js",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\wwwroot\\JS\\UIX.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wI/iiS/RWz3uT/++MFg1My0rNKv36cuPrpPMp+KITd4="
+        }
+      ]
+    },
+    {
+      "Route": "UIXP-3.b5kr1pcvc8.bundle.scp.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b5kr1pcvc8"
+        },
+        {
+          "Name": "label",
+          "Value": "UIXP-3.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4="
+        }
+      ]
+    },
+    {
+      "Route": "UIXP-3.b5kr1pcvc8.styles.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b5kr1pcvc8"
+        },
+        {
+          "Name": "label",
+          "Value": "UIXP-3.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4="
+        }
+      ]
+    },
+    {
+      "Route": "UIXP-3.bundle.scp.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UIXP-3.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4="
+        }
+      ]
+    },
+    {
+      "Route": "UIXP-3.styles.css",
+      "AssetFile": "E:\\C#\\UIX ACW\\UIXP-3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UIXP-3.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QTzuuAKbI0CEtS3f3PvBV2LkagvQ+Z0HPMwu+uI5xK4="
+        }
+      ]
     }
   ]
 }
